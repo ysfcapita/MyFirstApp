@@ -1,0 +1,15 @@
+D:\source\app11\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+D:\source\app11\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+D:\source\app11\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+D:\source\app11\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+D:\source\app11\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+D:\source\app11\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
